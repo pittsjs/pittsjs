@@ -1,16 +1,38 @@
-```
+<table>
+<tr>
+<td valign="top" width="65%">
+
+<pre>
   ____  _____ _____ _____ ___ _____ 
  / ___|| ____|_   _|_   _|_ _| ____|
  \___ \|  _|   | |   | |  | ||  _|  
   ___) | |___  | |   | |  | || |___ 
  |____/|_____| |_|   |_| |___|_____|
-```
+</pre>
 
 He/Him  
 BS Computer Science @ University of Pittsburgh  
 Service Desk + GIS/Applications Intern  
 City of Pittsburgh — Dept. of Innovation & Performance  
 Settie LLC
+
+</td>
+<td valign="top" width="35%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />
+
+</td>
+</tr>
+</table>
 
 ## What I'm up to
 
