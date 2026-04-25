@@ -51,12 +51,7 @@ Settie LLC
     - Built with **Shopify** and **Printful**.
     - Customer-facing storefront / personal site for **Johnny Stewart**, a hunting YouTuber
 
-## My work
+## Contact me
 
-- **Capstone (CS 1980)**: LLM-assisted prototype + prompt iteration — *agentic UX + delivery*
-- **Operating Systems (CS 1550)**: xv6 + filesystem work (FUSE) — *systems depth*
-- **Algorithms (CS 1501)**: implementation-heavy projects — *performance + correctness*
-- **Web (CS 1520)**: Flask restaurant app — *end-to-end product thinking*
-- *See my Pitt Coursework portfolio below. Fill out the form to retrieve a passcode.*
-
-[LinkedIn](https://www.linkedin.com/in/ssettie/) · [Coursework portfolio](https://github.com/pittsjs/Project-Portfolio-Samuel-Settie)
+- [LinkedIn](https://www.linkedin.com/in/ssettie/)
+- [Coursework portfolio](https://github.com/pittsjs/Project-Portfolio-Samuel-Settie)
