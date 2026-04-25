@@ -1,15 +1,27 @@
-```
+<div align="center">
+
+<pre>
   ____  _____ _____ _____ ___ _____ 
  / ___|| ____|_   _|_   _|_ _| ____|
  \___ \|  _|   | |   | |  | ||  _|  
   ___) | |___  | |   | |  | || |___ 
  |____/|_____| |_|   |_| |___|_____|
-```
+</pre>
 
-BS Computer Science @ University of Pittsburgh  
-Service Desk + GIS/Applications Intern  
-City of Pittsburgh — Dept. of Innovation & Performance  
-Settie LLC
+</div>
+
+<table>
+  <tr><td align="right" valign="top"><code>edu</code></td><td>BS Computer Science @ University of Pittsburgh</td></tr>
+  <tr><td align="right" valign="top"><code>work</code></td><td>Service Desk + GIS/Applications Intern</td></tr>
+  <tr><td align="right" valign="top"><code>dept</code></td><td>City of Pittsburgh — Dept. of Innovation & Performance</td></tr>
+  <tr><td align="right" valign="top"><code>solo</code></td><td>Settie LLC</td></tr>
+</table>
+
+```mermaid
+flowchart LR
+  pitt["Pitt — BS Computer Science"] --> dip["City of Pittsburgh — I&P"]
+  dip --> settie["Settie LLC"]
+```
 
 <p align="left">
   <img height="32" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
@@ -31,6 +43,10 @@ Settie LLC
 
 ## What I'm up to
 
+<table width="100%">
+<tr valign="top">
+<td width="50%">
+
 **City of Pittsburgh — Department of Innovation & Performance**  
 *Service Desk + GIS/Applications Intern*
 
@@ -38,15 +54,24 @@ Settie LLC
 - **Service Desk**: Day-to-day support for internal staff — tickets, on-call support, troubleshooting, and coordination on hardware rollouts, including the citywide **Tech Refresh** (~**2,000** employees).
   - **2026 NFL Draft (Pittsburgh)**: 12 Hours of on-site IT support — standby coverage for **9+** city departments (Police, Fire, EMS, EMA, etc.) and partners at the **emergency operations center**, including the NFL, FBI, Homeland Security, ESPN, Verizon, AT&T, T-Mobile, FirstNet, **Allegheny** County, DOMI, and **counter-UAS (C-UAS)** teams.
 
+</td>
+<td width="50%">
+
 **Settie LLC** — founder, engineer, developer
 
 - web dev · AI software engineering · AI automation · social media content strategy · SEO · version control
-- A solo practice I maintain from **end-to-end**; “full stack” in the entire *business* sense, not just the tech stack.
+- A solo startup I maintain from **end-to-end**; “full stack” in the entire *business* sense, not just the tech stack.
 
-## Links
+</td>
+</tr>
+</table>
+
+<details open>
+<summary><strong>Links</strong></summary>
 
 - [LinkedIn](https://www.linkedin.com/in/ssettie/)
 - [BS Computer Science, University of Pittsburgh — coursework portfolio](https://github.com/pittsjs/Project-Portfolio-Samuel-Settie)
   - *Request access via the portfolio repo’s form (passcode).*
 - Personal website — *coming soon*
 
+</details>
