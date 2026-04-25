@@ -10,22 +10,22 @@
 
 </div>
 
-<table align="left" border="0">
+<table border="0" width="100%">
 <tbody>
 <tr>
-<td valign="middle" width="34"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="22" height="22" alt="" title="Education" /></td>
+<td valign="middle" width="48"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="32" height="32" alt="" title="Education" /></td>
 <td valign="middle">BS Computer Science @ University of Pittsburgh</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="22" height="22" alt="" title="Role" /></td>
+<td valign="middle"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="32" height="32" alt="" title="Role" /></td>
 <td valign="middle">Service Desk + GIS/Applications Intern</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3e2.svg" width="22" height="22" alt="" title="Employer" /></td>
-<td valign="middle">City of Pittsburgh — Dept. of Innovation & Performance</td>
+<td valign="middle"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3e2.svg" width="32" height="32" alt="" title="Employer" /></td>
+<td valign="middle">City of Pittsburgh — I&amp;P</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f680.svg" width="22" height="22" alt="" title="Settie LLC" /></td>
+<td valign="middle"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f680.svg" width="32" height="32" alt="" title="Settie LLC" /></td>
 <td valign="middle">Settie LLC</td>
 </tr>
 </tbody>
