@@ -1,6 +1,6 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="65%">
+<td valign="top" width="65%" style="border: none; padding: 0 18px 0 0;">
 
 <pre>
   ____  _____ _____ _____ ___ _____ 
@@ -17,22 +17,55 @@ City of Pittsburgh — Dept. of Innovation & Performance
 Settie LLC
 
 </td>
-<td valign="top" width="35%" align="center">
+<td valign="top" width="35%" align="center" style="border: none; padding: 6px 0 0 0;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="Linux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />
+<table border="0" cellspacing="10" cellpadding="0" style="border: none;">
+  <tr>
+    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="34" alt="Python" /></td>
+    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="34" alt="Java" /></td>
+    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" /></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="34" alt="HTML5" /></td>
+    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="34" alt="CSS3" /></td>
+    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="34" alt="SQL" /></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="34" alt="C" /></td>
+    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="34" alt="C++" /></td>
+    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="34" alt="Git" /></td>
+  </tr>
+  <tr>
+    <td style="border: none;" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="34" alt="Linux" /></td>
+  </tr>
+</table>
 
 </td>
 </tr>
 </table>
+
+<sub><b>Filters</b></sub><br/>
+<sub>
+  <b>CATEGORY</b>:
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-0F172A?style=flat" alt="AI and Machine Learning" />
+  <img src="https://img.shields.io/badge/Algorithms%20%26%20Data%20Structures-0F172A?style=flat" alt="Algorithms and Data Structures" />
+  <img src="https://img.shields.io/badge/Data%20Science-0F172A?style=flat" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Foundations-0F172A?style=flat" alt="Foundations" />
+  <img src="https://img.shields.io/badge/Networking-0F172A?style=flat" alt="Networking" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-0F172A?style=flat" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Systems-0F172A?style=flat" alt="Systems" />
+  <img src="https://img.shields.io/badge/Theory%20%26%20Logic-0F172A?style=flat" alt="Theory and Logic" />
+  <img src="https://img.shields.io/badge/Web%20Development-0F172A?style=flat" alt="Web Development" />
+</sub><br/>
+<sub>
+  <b>LANGUAGE</b>:
+  <img src="https://img.shields.io/badge/Assembly-111827?style=flat" alt="Assembly" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-111827?style=flat" alt="C/C++" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJavaScript-111827?style=flat" alt="HTML/CSS/JavaScript" />
+  <img src="https://img.shields.io/badge/Java-111827?style=flat" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=flat" alt="SQL" />
+</sub>
 
 ## What I'm up to
 
