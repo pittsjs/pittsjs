@@ -2,8 +2,8 @@
 <tr valign="middle">
 <td width="38%" align="center" valign="middle">
 
-<!-- SMIL spin; swap for a GIF if SVG-in-img stops animating. -->
-<img src="assets/settie-spin.svg" width="300" height="136" alt="SETTIE" />
+<!-- SETTIE wordmark (static SVG). Swap src for a GIF if you want motion later. -->
+<img src="assets/settie-spin.svg" width="300" height="100" alt="SETTIE" />
 
 </td>
 <td width="62%" valign="top">
