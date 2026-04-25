@@ -1,9 +1,12 @@
-<div align="center">
+<table width="100%" border="0">
+<tr valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<!-- Rotating “SETTIE” via SMIL (no JS). If GitHub ever stops animating SVG-in-img, export a GIF and swap the src. -->
-<img src="assets/settie-spin.svg" width="440" height="200" alt="SETTIE" />
+<!-- SMIL spin; swap for a GIF if SVG-in-img stops animating. -->
+<img src="assets/settie-spin.svg" width="300" height="136" alt="SETTIE" />
 
-</div>
+</td>
+<td width="62%" valign="top">
 
 <table border="0" width="100%">
 <tbody>
@@ -41,6 +44,10 @@
   <img height="32" alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222" />
   <img height="32" alt="Assembly" title="Assembly" src="https://img.shields.io/badge/ASM-8A2BE2?style=flat-square&logo=gnu&logoColor=fff" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
