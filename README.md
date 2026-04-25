@@ -10,18 +10,26 @@
 
 </div>
 
-<table>
-  <tr><td align="right" valign="top"><code>edu</code></td><td>BS Computer Science @ University of Pittsburgh</td></tr>
-  <tr><td align="right" valign="top"><code>work</code></td><td>Service Desk + GIS/Applications Intern</td></tr>
-  <tr><td align="right" valign="top"><code>dept</code></td><td>City of Pittsburgh — Dept. of Innovation & Performance</td></tr>
-  <tr><td align="right" valign="top"><code>solo</code></td><td>Settie LLC</td></tr>
+<table align="left" border="0">
+<tbody>
+<tr>
+<td valign="middle" width="34"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="22" height="22" alt="" title="Education" /></td>
+<td valign="middle">BS Computer Science @ University of Pittsburgh</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="22" height="22" alt="" title="Role" /></td>
+<td valign="middle">Service Desk + GIS/Applications Intern</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3e2.svg" width="22" height="22" alt="" title="Employer" /></td>
+<td valign="middle">City of Pittsburgh — Dept. of Innovation & Performance</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f680.svg" width="22" height="22" alt="" title="Settie LLC" /></td>
+<td valign="middle">Settie LLC</td>
+</tr>
+</tbody>
 </table>
-
-```mermaid
-flowchart LR
-  pitt["Pitt — BS Computer Science"] --> dip["City of Pittsburgh — I&P"]
-  dip --> settie["Settie LLC"]
-```
 
 <p align="left">
   <img height="32" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
@@ -45,7 +53,10 @@ flowchart LR
 
 <table width="100%">
 <tr valign="top">
-<td width="50%">
+<td width="49%">
+
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+<tr><td>
 
 **City of Pittsburgh — Department of Innovation & Performance**  
 *Service Desk + GIS/Applications Intern*
@@ -54,24 +65,31 @@ flowchart LR
 - **Service Desk**: Day-to-day support for internal staff — tickets, on-call support, troubleshooting, and coordination on hardware rollouts, including the citywide **Tech Refresh** (~**2,000** employees).
   - **2026 NFL Draft (Pittsburgh)**: 12 Hours of on-site IT support — standby coverage for **9+** city departments (Police, Fire, EMS, EMA, etc.) and partners at the **emergency operations center**, including the NFL, FBI, Homeland Security, ESPN, Verizon, AT&T, T-Mobile, FirstNet, **Allegheny** County, DOMI, and **counter-UAS (C-UAS)** teams.
 
+</td></tr>
+</table>
+
 </td>
-<td width="50%">
+<td width="2%"></td>
+<td width="49%">
+
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+<tr><td>
 
 **Settie LLC** — founder, engineer, developer
 
 - web dev · AI software engineering · AI automation · social media content strategy · SEO · version control
 - A solo startup I maintain from **end-to-end**; “full stack” in the entire *business* sense, not just the tech stack.
 
+</td></tr>
+</table>
+
 </td>
 </tr>
 </table>
 
-<details open>
-<summary><strong>Links</strong></summary>
+## Links
 
 - [LinkedIn](https://www.linkedin.com/in/ssettie/)
 - [BS Computer Science, University of Pittsburgh — coursework portfolio](https://github.com/pittsjs/Project-Portfolio-Samuel-Settie)
   - *Request access via the portfolio repo’s form (passcode).*
 - Personal website — *coming soon*
-
-</details>
