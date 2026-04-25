@@ -16,21 +16,20 @@ Service Desk + GIS/Applications Intern
 City of Pittsburgh — Dept. of Innovation & Performance  
 Settie LLC
 
-<p align="center">
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnu.svg" width="32" height="32" alt="Assembly" title="Assembly" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="32" height="32" alt="C" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" alt="Java" /></span>
-  <br/><br/>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" height="32" alt="Python" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" height="32" alt="SQL" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cursor.svg" width="32" height="32" alt="Cursor" title="Cursor" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/anthropic.svg" width="32" height="32" alt="Claude Code" title="Claude Code" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git" /></span>
-  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" height="32" alt="GitHub" title="GitHub" /></span>
+<p align="left">
+  <img height="32" alt="Assembly" title="Assembly" src="https://img.shields.io/badge/ASM-8A2BE2?style=flat-square&logo=gnu&logoColor=fff" />
+  <img height="32" alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222" />
+  <img height="32" alt="C++" src="https://img.shields.io/badge/C++-649BD2?style=flat-square&logo=c%2B%2B&logoColor=fff" />
+  <img height="32" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff" />
+  <img height="32" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff" />
+  <img height="32" alt="JavaScript" src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+  <img height="32" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" />
+  <img height="32" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
+  <img height="32" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" />
+  <img height="32" alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-14120b?style=flat-square&logo=cursor&logoColor=eee8aa" />
+  <img height="32" alt="Claude" title="Claude / Anthropic" src="https://img.shields.io/badge/Claude-D4A27F?style=flat-square&logo=anthropic&logoColor=1a1a1a" />
+  <img height="32" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" />
+  <img height="32" alt="GitHub" src="https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=fff" />
 </p>
 
 ---
