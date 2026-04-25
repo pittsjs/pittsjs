@@ -51,7 +51,8 @@
 
 ---
 
-## What I'm up to
+<details>
+<summary><strong>What I'm up to</strong></summary>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="14">
 <tr valign="top">
@@ -81,9 +82,14 @@
 </tr>
 </table>
 
-## Links
+</details>
+
+<details>
+<summary><strong>Links</strong></summary>
 
 - [LinkedIn](https://www.linkedin.com/in/ssettie/)
 - [BS Computer Science, University of Pittsburgh — coursework portfolio](https://github.com/pittsjs/Project-Portfolio-Samuel-Settie)
   - *Request access via the portfolio repo’s form (passcode).*
 - Personal website — *coming soon*
+
+</details>
