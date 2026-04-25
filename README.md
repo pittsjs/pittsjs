@@ -1,12 +1,7 @@
 <div align="center">
 
-<pre>
-  ____  _____ _____ _____ ___ _____ 
- / ___|| ____|_   _|_   _|_ _| ____|
- \___ \|  _|   | |   | |  | ||  _|  
-  ___) | |___  | |   | |  | || |___ 
- |____/|_____| |_|   |_| |___|_____|
-</pre>
+<!-- Rotating “SETTIE” via SMIL (no JS). If GitHub ever stops animating SVG-in-img, export a GIF and swap the src. -->
+<img src="assets/settie-spin.svg" width="440" height="200" alt="SETTIE" />
 
 </div>
 
@@ -51,12 +46,9 @@
 
 ## What I'm up to
 
-<table width="100%">
+<table width="100%" border="1" cellspacing="0" cellpadding="14">
 <tr valign="top">
-<td width="49%">
-
-<table border="1" cellpadding="14" cellspacing="0" width="100%">
-<tr><td>
+<td width="50%">
 
 **City of Pittsburgh — Department of Innovation & Performance**  
 *Service Desk + GIS/Applications Intern*
@@ -65,23 +57,13 @@
 - **Service Desk**: Day-to-day support for internal staff — tickets, on-call support, troubleshooting, and coordination on hardware rollouts, including the citywide **Tech Refresh** (~**2,000** employees).
   - **2026 NFL Draft (Pittsburgh)**: 12 Hours of on-site IT support — standby coverage for **9+** city departments (Police, Fire, EMS, EMA, etc.) and partners at the **emergency operations center**, including the NFL, FBI, Homeland Security, ESPN, Verizon, AT&T, T-Mobile, FirstNet, **Allegheny** County, DOMI, and **counter-UAS (C-UAS)** teams.
 
-</td></tr>
-</table>
-
 </td>
-<td width="2%"></td>
-<td width="49%">
-
-<table border="1" cellpadding="14" cellspacing="0" width="100%">
-<tr><td>
+<td width="50%">
 
 **Settie LLC** — founder, engineer, developer
 
 - web dev · AI software engineering · AI automation · social media content strategy · SEO · version control
 - A solo startup I maintain from **end-to-end**; “full stack” in the entire *business* sense, not just the tech stack.
-
-</td></tr>
-</table>
 
 </td>
 </tr>
