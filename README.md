@@ -57,20 +57,25 @@
 <tr valign="top">
 <td width="50%">
 
-**City of Pittsburgh — Department of Innovation & Performance**  
-*Service Desk + GIS/Applications Intern*
+<details>
+<summary><strong>City of Pittsburgh — Department of Innovation & Performance</strong><br/><em>Service Desk + GIS/Applications Intern</em></summary>
 
 - **GIS / web apps**: Building an interactive onboarding tour for **[OneStopPGH Insights](https://experience.arcgis.com/experience/89d500285ecd4804ae9945d93d424569)** with Intro.js.
 - **Service Desk**: Day-to-day support for internal staff — tickets, on-call support, troubleshooting, and coordination on hardware rollouts, including the citywide **Tech Refresh** (~**2,000** employees).
   - **2026 NFL Draft (Pittsburgh)**: 12 Hours of on-site IT support — standby coverage for **9+** city departments (Police, Fire, EMS, EMA, etc.) and partners at the **emergency operations center**, including the NFL, FBI, Homeland Security, ESPN, Verizon, AT&T, T-Mobile, FirstNet, **Allegheny** County, DOMI, and **counter-UAS (C-UAS)** teams.
 
+</details>
+
 </td>
 <td width="50%">
 
-**Settie LLC** — founder, engineer, developer
+<details>
+<summary><strong>Settie LLC</strong> — founder, engineer, developer</summary>
 
 - web dev · AI software engineering · AI automation · social media content strategy · SEO · version control
 - A solo startup I maintain from **end-to-end**; “full stack” in the entire *business* sense, not just the tech stack.
+
+</details>
 
 </td>
 </tr>
