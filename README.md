@@ -17,55 +17,39 @@ City of Pittsburgh — Dept. of Innovation & Performance
 Settie LLC
 
 </td>
-<td valign="top" width="35%" align="center" style="border: none; padding: 6px 0 0 0;">
+<td valign="middle" width="35%" align="center" style="border: none; padding: 6px 0 0 12px;">
 
-<table border="0" cellspacing="10" cellpadding="0" style="border: none;">
-  <tr>
-    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="34" alt="Python" /></td>
-    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="34" alt="Java" /></td>
-    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" /></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="34" alt="HTML5" /></td>
-    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="34" alt="CSS3" /></td>
-    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="34" alt="SQL" /></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="34" alt="C" /></td>
-    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="34" alt="C++" /></td>
-    <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="34" alt="Git" /></td>
-  </tr>
-  <tr>
-    <td style="border: none;" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="34" alt="Linux" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnu.svg" width="34" height="34" alt="Assembly" title="Assembly" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="34" height="34" alt="C" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="34" height="34" alt="C++" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="34" height="34" alt="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="34" height="34" alt="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="34" height="34" alt="Java" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="34" height="34" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="34" height="34" alt="SQL" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cursor.svg" width="34" height="34" alt="Cursor" title="Cursor" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/anthropic.svg" width="34" height="34" alt="Claude Code" title="Claude Code" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="34" height="34" alt="GitHub" title="GitHub" />
+</p>
 
 </td>
 </tr>
 </table>
-
-<sub><b>Filters</b></sub><br/>
-<sub>
-  <b>CATEGORY</b>:
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-0F172A?style=flat" alt="AI and Machine Learning" />
-  <img src="https://img.shields.io/badge/Algorithms%20%26%20Data%20Structures-0F172A?style=flat" alt="Algorithms and Data Structures" />
-  <img src="https://img.shields.io/badge/Data%20Science-0F172A?style=flat" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Foundations-0F172A?style=flat" alt="Foundations" />
-  <img src="https://img.shields.io/badge/Networking-0F172A?style=flat" alt="Networking" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-0F172A?style=flat" alt="Software Engineering" />
-  <img src="https://img.shields.io/badge/Systems-0F172A?style=flat" alt="Systems" />
-  <img src="https://img.shields.io/badge/Theory%20%26%20Logic-0F172A?style=flat" alt="Theory and Logic" />
-  <img src="https://img.shields.io/badge/Web%20Development-0F172A?style=flat" alt="Web Development" />
-</sub><br/>
-<sub>
-  <b>LANGUAGE</b>:
-  <img src="https://img.shields.io/badge/Assembly-111827?style=flat" alt="Assembly" />
-  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-111827?style=flat" alt="C/C++" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJavaScript-111827?style=flat" alt="HTML/CSS/JavaScript" />
-  <img src="https://img.shields.io/badge/Java-111827?style=flat" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-111827?style=flat" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-111827?style=flat" alt="SQL" />
-</sub>
 
 ## What I'm up to
 
@@ -73,8 +57,8 @@ Settie LLC
 *Service Desk + GIS/Applications Intern*
 
 - **GIS / web apps**: Building an interactive onboarding tour for **[OneStopPGH Insights](https://experience.arcgis.com/experience/89d500285ecd4804ae9945d93d424569)** with Intro.js.
-- **Service Desk**: Day-to-day support for internal staff — tickets, access, troubleshooting, and coordination on hardware rollouts, including the citywide **Tech Refresh** (~**2,000** employees)
-  - **2026 NFL Draft (Pittsburgh)**: 12 Hours of on-site IT support — standby coverage for **9+** city departments (Police, Fire, EMS, EMA, etc.) and partners at the **emergency operations center**, including the NFL, FBI, Homeland Security Verizon, FirstNet, **Allegheny** County, Coastguard, DOMI, and **counter-UAS (C-UAS)** teams.
+- **Service Desk**: Day-to-day support for internal staff — tickets, access, troubleshooting, and coordination on hardware rollouts, including the citywide **Tech Refresh** (~**2,000** employees).
+  - **2026 NFL Draft (Pittsburgh)**: 12 Hours of on-site IT support — standby coverage for **9+** city departments (Police, Fire, EMS, EMA, etc.) and partners at the **emergency operations center**, including the NFL, FBI, Homeland Security, ESPN, Verizon, AT&T, T-Mobile, FirstNet, **Allegheny** County, DOMI, and **counter-UAS (C-UAS)** teams.
 
 **Settie LLC** — founder, engineer, developer
 
