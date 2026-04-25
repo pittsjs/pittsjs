@@ -1,8 +1,6 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="65%" style="border: none; padding: 0 18px 0 0;">
+<div align="center">
 
-<pre>
+<pre style="padding:12px 16px;border-radius:10px;border:1px solid #30363d;background:#0d1117;color:#e6edf3;display:inline-block;text-align:left;">
   ____  _____ _____ _____ ___ _____ 
  / ___|| ____|_   _|_   _|_ _| ____|
  \___ \|  _|   | |   | |  | ||  _|  
@@ -10,46 +8,32 @@
  |____/|_____| |_|   |_| |___|_____|
 </pre>
 
+</div>
+
 He/Him  
 BS Computer Science @ University of Pittsburgh  
 Service Desk + GIS/Applications Intern  
 City of Pittsburgh — Dept. of Innovation & Performance  
 Settie LLC
 
-</td>
-<td valign="middle" width="35%" align="center" style="border: none; padding: 6px 0 0 12px;">
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnu.svg" width="34" height="34" alt="Assembly" title="Assembly" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="34" height="34" alt="C" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="34" height="34" alt="C++" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="34" height="34" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="34" height="34" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="34" height="34" alt="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="34" height="34" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="34" height="34" alt="SQL" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cursor.svg" width="34" height="34" alt="Cursor" title="Cursor" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/anthropic.svg" width="34" height="34" alt="Claude Code" title="Claude Code" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="34" height="34" alt="GitHub" title="GitHub" />
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnu.svg" width="32" height="32" alt="Assembly" title="Assembly" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="32" height="32" alt="C" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" alt="Java" /></span>
+  <br/><br/>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" height="32" alt="Python" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" height="32" alt="SQL" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cursor.svg" width="32" height="32" alt="Cursor" title="Cursor" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/anthropic.svg" width="32" height="32" alt="Claude Code" title="Claude Code" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git" /></span>
+  <span style="display:inline-block;background:#f6f8fa;border:1px solid #d0d7de;border-radius:10px;padding:6px;line-height:0;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" height="32" alt="GitHub" title="GitHub" /></span>
 </p>
 
-</td>
-</tr>
-</table>
+---
 
 ## What I'm up to
 
