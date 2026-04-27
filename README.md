@@ -88,8 +88,7 @@
 <summary><strong>Links</strong></summary>
 
 - [LinkedIn](https://www.linkedin.com/in/ssettie/)
-- [BS Computer Science, University of Pittsburgh — coursework portfolio](https://github.com/pittsjs/Project-Portfolio-Samuel-Settie)
-  - *Request access via the portfolio repo’s form (passcode).*
+- [BS Computer Science, University of Pittsburgh — coursework portfolio](https://pittsjs.github.io/Project-Portfolio-Samuel-Settie/)
 - Personal website — *coming soon*
 
 </details>
