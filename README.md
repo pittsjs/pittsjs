@@ -54,7 +54,17 @@
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:coding-stats-->
-*Loading stats...*
+**14.4h** this week &nbsp;·&nbsp; 5/7 days active &nbsp;·&nbsp; 🔥 2 day streak
+
+| Day | Time | |
+|-----|------|---|
+| Wed | 34m | `█░░░░░░░░░░░░░░░` |
+| Thu | 2h 40m | `███████░░░░░░░░░` |
+| Sat | 5h 39m | `████████████████` |
+| Mon | 5h 28m | `███████████████░` |
+| Tue | 2m | `░░░░░░░░░░░░░░░░` |
+
+> Top project: **Project-Portfolio-Samuel-Settie** &nbsp;·&nbsp; Auto-updated Apr 28, 2026 by [code-clock](https://github.com/pittsjs/code-clock)
 <!--END_SECTION:coding-stats-->
 
 
