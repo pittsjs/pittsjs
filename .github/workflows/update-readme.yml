@@ -1,0 +1,95 @@
+name: Update Coding Stats
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stats
+        run: |
+          curl -sf "https://raw.githubusercontent.com/pittsjs/code-clock/main/stats.json"             -o stats.json || { echo "stats.json not found"; exit 1; }
+
+      - name: Generate stats block
+        run: |
+          python3 - <<'EOF'
+import json, sys
+from datetime import datetime
+
+with open("stats.json") as f:
+    data = json.load(f)
+
+s = data["summary"]
+daily = data["daily"]
+
+total = s["total_hours"]
+days_active = s["days_active"]
+streak = s["streak_days"]
+top = s.get("top_project") or "—"
+
+# Build daily bar chart (last 7 days)
+max_h = max((d["hours"] for d in daily), default=1) or 1
+rows = []
+for d in daily[-7:]:
+    date = datetime.fromisoformat(d["date"])
+    day_name = date.strftime("%a")
+    h = d["hours"]
+    bar_len = int(h / max_h * 16)
+    bar = "█" * bar_len + "░" * (16 - bar_len)
+    time_str = f"{int(h)}h {int((h % 1)*60):02d}m" if h >= 1 else f"{int(h*60)}m" if h > 0 else "—"
+    rows.append(f"| {day_name} | {time_str} | `{bar}` |")
+
+table = "\n".join(rows)
+generated = datetime.utcnow().strftime("%b %d, %Y")
+
+block = f"""**{total}h** this week &nbsp;·&nbsp; {days_active}/7 days active &nbsp;·&nbsp; 🔥 {streak} day streak
+
+| Day | Time | |
+|-----|------|---|
+{table}
+
+> Top project: **{top}** &nbsp;·&nbsp; Auto-updated {generated} by [code-clock](https://github.com/pittsjs/code-clock)"""
+
+with open("stats_block.txt", "w") as f:
+    f.write(block)
+print(block)
+EOF
+
+      - name: Update README
+        run: |
+          python3 - <<'EOF'
+import re
+
+with open("README.md", "r") as f:
+    readme = f.read()
+
+with open("stats_block.txt", "r") as f:
+    block = f.read()
+
+pattern = r"(<!--START_SECTION:coding-stats-->).*?(<!--END_SECTION:coding-stats-->)"
+replacement = r"\1\n" + block + r"\n\2"
+new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+if new_readme == readme:
+    print("No changes")
+else:
+    with open("README.md", "w") as f:
+        f.write(new_readme)
+    print("README updated")
+EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && echo "Nothing to commit" && exit 0
+          git commit -m "chore: update coding stats [skip ci]"
+          git push
