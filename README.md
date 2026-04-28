@@ -51,6 +51,13 @@
 
 ---
 
+## ⏱️ Coding Activity
+
+<!--START_SECTION:coding-stats-->
+*Loading stats...*
+<!--END_SECTION:coding-stats-->
+
+
 <details>
 <summary><strong>What I'm up to</strong></summary>
 
