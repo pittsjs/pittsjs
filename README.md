@@ -54,17 +54,17 @@
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:coding-stats-->
-**14.4h** this week &nbsp;·&nbsp; 5/7 days active &nbsp;·&nbsp; 🔥 2 day streak
+**18.8h** this week &nbsp;·&nbsp; 5/7 days active &nbsp;·&nbsp; 🔥 2 day streak
 
 | Day | Time | |
 |-----|------|---|
 | Wed | 34m | `█░░░░░░░░░░░░░░░` |
-| Thu | 2h 40m | `███████░░░░░░░░░` |
-| Sat | 5h 39m | `████████████████` |
-| Mon | 5h 28m | `███████████████░` |
-| Tue | 2m | `░░░░░░░░░░░░░░░░` |
+| Thu | 2h 40m | `█████░░░░░░░░░░░` |
+| Sat | 5h 39m | `███████████░░░░░` |
+| Mon | 8h 00m | `████████████████` |
+| Tue | 1h 51m | `███░░░░░░░░░░░░░` |
 
-> Top project: **Project-Portfolio-Samuel-Settie** &nbsp;·&nbsp; Auto-updated Apr 28, 2026 by [code-clock](https://github.com/pittsjs/code-clock)
+> Top project: **Project-Portfolio-Samuel-Settie** &nbsp;·&nbsp; Auto-updated Apr 29, 2026 by [code-clock](https://github.com/pittsjs/code-clock)
 <!--END_SECTION:coding-stats-->
 
 
