@@ -2,7 +2,11 @@ name: Update Coding Stats
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    # 1:30 PM & 8:30 PM US Eastern (America/New_York). GitHub cron is UTC-only.
+    # These two lines match local clocks during EDT (~Mar–Nov): 17:30 UTC = 13:30 EDT, 00:30 UTC = 20:30 EDT.
+    # When EST is in effect (~Nov–Mar), use 18:30 and 01:30 UTC instead for the same local times.
+    - cron: '30 17 * * *'
+    - cron: '30 0 * * *'
   workflow_dispatch:
 
 jobs:
