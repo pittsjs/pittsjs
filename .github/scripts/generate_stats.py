@@ -1,5 +1,6 @@
-import json, re, sys
-from datetime import datetime
+import json
+import re
+from datetime import datetime, timezone
 
 with open("stats.json") as f:
     data = json.load(f)
@@ -10,6 +11,18 @@ total = s["total_hours"]
 days_active = s["days_active"]
 streak = s["streak_days"]
 top = s.get("top_project") or "—"
+gen = data["generated_at"]
+
+exp = data.get("exported_at")
+if exp:
+    try:
+        dt = datetime.fromisoformat(exp.replace("Z", "+00:00"))
+        exp_disp = dt.astimezone(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
+    except ValueError:
+        exp_disp = exp
+    footer_sync = f" · export **{exp_disp}**"
+else:
+    footer_sync = ""
 
 max_h = max((d["hours"] for d in daily), default=1) or 1
 rows = []
@@ -26,7 +39,7 @@ block = f"""**{total}h** this week &nbsp;·&nbsp; {days_active}/7 days active &n
 |-----|------|---|
 {chr(10).join(rows)}
 
-> Top project: **{top}** &nbsp;·&nbsp; Auto-updated {datetime.utcnow().strftime("%b %d, %Y")} by [code-clock](https://github.com/pittsjs/code-clock)"""
+> Top project: **{top}** &nbsp;·&nbsp; Metrics **{gen}**{footer_sync} · [code-clock](https://github.com/pittsjs/code-clock)"""
 
 with open("README.md") as f:
     readme = f.read()
@@ -34,7 +47,8 @@ with open("README.md") as f:
 new = re.sub(
     r"(<!--START_SECTION:coding-stats-->).*?(<!--END_SECTION:coding-stats-->)",
     r"\1\n" + block + r"\n\2",
-    readme, flags=re.DOTALL
+    readme,
+    flags=re.DOTALL,
 )
 
 with open("README.md", "w") as f:
