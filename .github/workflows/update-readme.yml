@@ -15,7 +15,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      # fetch-depth 0 so `git log` can find the latest `x.y.z -` subject (default depth=1 breaks semver bumps)
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Fetch latest stats
         env:
