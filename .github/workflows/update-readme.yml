@@ -8,6 +8,9 @@ on:
     - cron: '30 17 * * *'
     - cron: '30 0 * * *'
   workflow_dispatch:
+  # Fired automatically by code-clock after each successful stats.json push (see push_stats.sh + `gh`).
+  repository_dispatch:
+    types: [coding-stats-updated]
 
 jobs:
   update:
@@ -15,10 +18,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # fetch-depth 0 so `git log` can find the latest `x.y.z -` subject (default depth=1 breaks semver bumps)
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Fetch latest stats
         env:
