@@ -1,6 +1,9 @@
 import json
 import re
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+ET = ZoneInfo("America/New_York")
 
 with open("stats.json") as f:
     data = json.load(f)
@@ -17,12 +20,18 @@ exp = data.get("exported_at")
 if exp:
     try:
         dt = datetime.fromisoformat(exp.replace("Z", "+00:00"))
-        exp_disp = dt.astimezone(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
+        et = dt.astimezone(ET)
+        hour = et.hour % 12 or 12
+        tz = et.tzname() or et.strftime("%Z")
+        last_updates = (
+            f"{et.day}/{et.month}/{et.year} {hour}:{et.minute:02d} "
+            f"{et.strftime('%p')} {tz}"
+        )
     except ValueError:
-        exp_disp = exp
-    footer_sync = f" · export **{exp_disp}**"
+        last_updates = exp
 else:
-    footer_sync = ""
+    y, mo, da = gen.split("-")
+    last_updates = f"{int(da)}/{int(mo)}/{y} (report date)"
 
 max_h = max((d["hours"] for d in daily), default=1) or 1
 rows = []
@@ -39,7 +48,7 @@ block = f"""**{total}h** this week &nbsp;·&nbsp; {days_active}/7 days active &n
 |-----|------|---|
 {chr(10).join(rows)}
 
-> Top project: **{top}** &nbsp;·&nbsp; Metrics **{gen}**{footer_sync} · [code-clock](https://github.com/pittsjs/code-clock)"""
+> Top project: **{top}** &nbsp;·&nbsp; Last updates on: **{last_updates}** · [code-clock](https://github.com/pittsjs/code-clock)"""
 
 with open("README.md") as f:
     readme = f.read()
