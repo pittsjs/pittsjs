@@ -54,16 +54,15 @@
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:coding-stats-->
-**3.6h** this week &nbsp;·&nbsp; 4/7 days active &nbsp;·&nbsp; 🔥 0 day streak
+**3.3h** this week &nbsp;·&nbsp; 3/7 days active &nbsp;·&nbsp; 🔥 0 day streak
 
 | Day | Time | |
 |-----|------|---|
-| Tue | 18m | `███░░░░░░░░░░░░░` |
 | Wed | 1h 15m | `█████████████░░░` |
 | Thu | 35m | `██████░░░░░░░░░░` |
 | Fri | 1h 30m | `████████████████` |
 
-> Top project: **cop-gis-OneStop-Guide** &nbsp;·&nbsp; Last updates on: **11/5/2026 8:30 PM EDT** · [code-clock](https://github.com/pittsjs/code-clock)
+> Top project: **cop-gis-OneStop-Guide** &nbsp;·&nbsp; Last updates on: **12/5/2026 4:05 PM EDT** · [code-clock](https://github.com/pittsjs/code-clock)
 <!--END_SECTION:coding-stats-->
 
 
