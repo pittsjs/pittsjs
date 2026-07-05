@@ -54,18 +54,18 @@
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:coding-stats-->
-**17.3h** this week &nbsp;·&nbsp; 6/7 days active &nbsp;·&nbsp; 🔥 5 day streak
+**16.1h** this week &nbsp;·&nbsp; 6/7 days active &nbsp;·&nbsp; 🔥 6 day streak
 
 | Day | Time | |
 |-----|------|---|
-| Sun | 1h 15m | `██░░░░░░░░░░░░░░` |
 | Tue | 1h 08m | `██░░░░░░░░░░░░░░` |
 | Wed | 3h 47m | `████████░░░░░░░░` |
 | Thu | 6h 47m | `████████████████` |
 | Fri | 1h 50m | `████░░░░░░░░░░░░` |
 | Sat | 2h 30m | `█████░░░░░░░░░░░` |
+| Sun | — | `░░░░░░░░░░░░░░░░` |
 
-> Top project: **jarvis** &nbsp;·&nbsp; Last updates on: **4/7/2026 8:35 PM EDT** · [code-clock](https://github.com/pittsjs/code-clock)
+> Top project: **jarvis** &nbsp;·&nbsp; Last updates on: **5/7/2026 2:52 AM EDT** · [code-clock](https://github.com/pittsjs/code-clock)
 <!--END_SECTION:coding-stats-->
 
 
