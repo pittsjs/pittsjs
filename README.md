@@ -54,13 +54,13 @@
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:coding-stats-->
-**0.7h** this week &nbsp;·&nbsp; 1/7 days active &nbsp;·&nbsp; 🔥 0 day streak
+**0.0h** this week &nbsp;·&nbsp; 0/7 days active &nbsp;·&nbsp; 🔥 0 day streak
 
 | Day | Time | |
 |-----|------|---|
-| Mon | 40m | `████████████████` |
 
-> Top project: **Private project** &nbsp;·&nbsp; Last updates on: **23/8/2026 8:30 PM EDT** · [code-clock](https://github.com/pittsjs/code-clock)
+
+> Top project: **—** &nbsp;·&nbsp; Last updates on: **24/8/2026 1:30 PM EDT** · [code-clock](https://github.com/pittsjs/code-clock)
 <!--END_SECTION:coding-stats-->
 
 
