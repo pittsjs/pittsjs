@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/settie-spin.svg" width="360" alt="SETTIE" />
 
   # Samuel Settie
 
