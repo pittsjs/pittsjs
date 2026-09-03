@@ -1,5 +1,4 @@
 <div align="center">
-
   # Samuel Settie
 
   **Software developer building useful web products, AI systems, and automation.**
@@ -8,6 +7,27 @@
 </div>
 
 ---
+
+## This week in code
+
+<!--START_SECTION:coding-stats-->
+<p align="center">
+  <img alt="25.4 hours coded this week" src="https://img.shields.io/badge/THIS_WEEK-25.4h-238636?style=for-the-badge" />
+  <img alt="6 of 7 active days" src="https://img.shields.io/badge/ACTIVE_DAYS-6%2F7-1f6feb?style=for-the-badge" />
+  <img alt="4 day coding streak" src="https://img.shields.io/badge/STREAK-4_DAYS-f0883e?style=for-the-badge" />
+</p>
+
+| Day | Time | Activity |
+|:---|---:|:---|
+| Fri | 13h 16m | `████████████████` |
+| Sat | — | `░░░░░░░░░░░░░░░░` |
+| Mon | 5h 12m | `██████░░░░░░░░░░` |
+| Tue | 2h 45m | `███░░░░░░░░░░░░░` |
+| Wed | 3h 51m | `████░░░░░░░░░░░░` |
+| Thu | 15m | `░░░░░░░░░░░░░░░░` |
+
+<sub>Top project: <strong>Private project</strong> · Updated 3/9/2026 11:55 AM EDT · Powered by <a href="https://github.com/pittsjs/code-clock">code-clock</a></sub>
+<!--END_SECTION:coding-stats-->
 
 ## What I'm doing
 
@@ -24,23 +44,6 @@
 | [Gdovic Construction](https://gdovicconstruction.com/) | Designed and shipped a production website for a Pittsburgh-area construction company. |
 | [code-clock](https://github.com/pittsjs/code-clock) | Coding-time tracker for understanding where development hours actually go. |
 | [Pitt CS Portfolio](https://pittsjs.github.io/Project-Portfolio-Samuel-Settie/) | Selected systems, web, networking, AI, and data-science coursework from my B.S. in Computer Science. |
-
-## Coding activity
-
-<!--START_SECTION:coding-stats-->
-**26.2h** this week &nbsp;·&nbsp; 6/7 days active &nbsp;·&nbsp; 🔥 4 day streak
-
-| Day | Time | |
-|-----|------|---|
-| Fri | 13h 16m | `████████████████` |
-| Sat | — | `░░░░░░░░░░░░░░░░` |
-| Mon | 5h 12m | `██████░░░░░░░░░░` |
-| Tue | 2h 45m | `███░░░░░░░░░░░░░` |
-| Wed | 3h 51m | `████░░░░░░░░░░░░` |
-| Thu | 1h 04m | `█░░░░░░░░░░░░░░░` |
-
-> Top project: **Private project** &nbsp;·&nbsp; Last updates on: **3/9/2026 1:16 PM EDT** · [code-clock](https://github.com/pittsjs/code-clock)
-<!--END_SECTION:coding-stats-->
 
 ## Tools I reach for
 
