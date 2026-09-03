@@ -24,14 +24,15 @@ if exp:
         hour = et.hour % 12 or 12
         tz = et.tzname() or et.strftime("%Z")
         last_updates = (
-            f"{et.day}/{et.month}/{et.year} {hour}:{et.minute:02d} "
+            f"{et.strftime('%b')} {et.day}, {et.year} at {hour}:{et.minute:02d} "
             f"{et.strftime('%p')} {tz}"
         )
     except ValueError:
         last_updates = exp
 else:
     y, mo, da = gen.split("-")
-    last_updates = f"{int(da)}/{int(mo)}/{y} (report date)"
+    report_date = datetime(int(y), int(mo), int(da))
+    last_updates = f"{report_date.strftime('%b')} {report_date.day}, {report_date.year} (report date)"
 
 max_h = max((d["hours"] for d in daily), default=1) or 1
 rows = []
