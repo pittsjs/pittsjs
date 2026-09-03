@@ -42,13 +42,19 @@ for d in daily[-7:]:
     time_str = f"{int(h)}h {int((h%1)*60):02d}m" if h >= 1 else f"{int(h*60)}m" if h > 0 else "—"
     rows.append(f"| {date.strftime('%a')} | {time_str} | `{bar}` |")
 
-block = f"""**{total}h** this week &nbsp;·&nbsp; {days_active}/7 days active &nbsp;·&nbsp; 🔥 {streak} day streak
+streak_unit = "DAY" if streak == 1 else "DAYS"
 
-| Day | Time | |
-|-----|------|---|
+block = f"""<p align="center">
+  <img alt="{total} hours coded this week" src="https://img.shields.io/badge/THIS_WEEK-{total}h-238636?style=for-the-badge" />
+  <img alt="{days_active} of 7 active days" src="https://img.shields.io/badge/ACTIVE_DAYS-{days_active}%2F7-1f6feb?style=for-the-badge" />
+  <img alt="{streak} day coding streak" src="https://img.shields.io/badge/STREAK-{streak}_{streak_unit}-f0883e?style=for-the-badge" />
+</p>
+
+| Day | Time | Activity |
+|:---|---:|:---|
 {chr(10).join(rows)}
 
-> Top project: **{top}** &nbsp;·&nbsp; Last updates on: **{last_updates}** · [code-clock](https://github.com/pittsjs/code-clock)"""
+<sub>Top project: <strong>{top}</strong> · Updated {last_updates} · Powered by <a href="https://github.com/pittsjs/code-clock">code-clock</a></sub>"""
 
 with open("README.md") as f:
     readme = f.read()
