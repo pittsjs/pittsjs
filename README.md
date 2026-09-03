@@ -1,7 +1,5 @@
 <div align="center">
-  # Samuel Settie
 
-  **Software developer building useful web products, AI systems, and automation.**
 
   [Website](https://ssettie.com) · [LinkedIn](https://www.linkedin.com/in/ssettie/) · [Coursework portfolio](https://pittsjs.github.io/Project-Portfolio-Samuel-Settie/)
 </div>
