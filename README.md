@@ -27,7 +27,6 @@
 <sub>Top project: <strong>Private project</strong> · Updated Sep 3, 2026 at 8:30 PM EDT · Powered by <a href="https://github.com/pittsjs/code-clock">code-clock</a></sub>
 <!--END_SECTION:coding-stats-->
 
-## Tools I reach for
 
 <p align="left">
   <img height="32" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
