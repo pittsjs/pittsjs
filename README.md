@@ -6,27 +6,15 @@
 
 ---
 
-## This week in code
-
 <!--START_SECTION:coding-stats-->
-<p align="center">
-  <img alt="27.6 hours coded this week" src="https://img.shields.io/badge/THIS_WEEK-27.6h-238636?style=for-the-badge" />
-  <img alt="6 of 7 active days" src="https://img.shields.io/badge/ACTIVE_DAYS-6%2F7-1f6feb?style=for-the-badge" />
-  <img alt="4 day coding streak" src="https://img.shields.io/badge/STREAK-4_DAYS-f0883e?style=for-the-badge" />
-</p>
-
-| Day | Time | Activity |
-|:---|---:|:---|
-| Fri | 13h 16m | `████████████████` |
-| Sat | — | `░░░░░░░░░░░░░░░░` |
-| Mon | 5h 12m | `██████░░░░░░░░░░` |
-| Tue | 2h 45m | `███░░░░░░░░░░░░░` |
-| Wed | 3h 51m | `████░░░░░░░░░░░░` |
-| Thu | 2h 28m | `██░░░░░░░░░░░░░░` |
-
-<sub>Top project: <strong>Private project</strong> · Updated Sep 3, 2026 at 8:30 PM EDT · Powered by <a href="https://github.com/pittsjs/code-clock">code-clock</a></sub>
+<a href="https://github.com/pittsjs/code-clock">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/code-clock-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/code-clock-light.svg">
+    <img alt="Code Clock live coding activity dashboard" src="assets/code-clock-light.svg" width="100%">
+  </picture>
+</a>
 <!--END_SECTION:coding-stats-->
-
 
 <p align="left">
   <img height="32" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />

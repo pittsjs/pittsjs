@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md assets/code-clock-dark.svg assets/code-clock-light.svg
           git diff --cached --quiet && exit 0
           LAST=""
           while IFS= read -r subj; do
