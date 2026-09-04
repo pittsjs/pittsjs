@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
 <title id="title">This week in code</title>
-<desc id="desc">14.3 hours coded this week across 5 active days with a 4 day streak. Includes daily coding activity.</desc>
+<desc id="desc">14.3 hours coded this week across 6 active days with a 5 day streak. Includes daily coding activity.</desc>
 <rect width="1200" height="500" fill="#0d1117"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#f0f6fc">
 <text x="48" y="54" font-size="26" font-weight="700">This week in code</text>
-<text x="1152" y="54" text-anchor="end" font-size="14" fill="#8b949e">Updated Sep 4, 2026 at 1:45 PM EDT</text>
+<text x="1152" y="54" text-anchor="end" font-size="14" fill="#8b949e">Updated Sep 4, 2026 at 5:17 PM EDT</text>
 <line x1="48" y1="78" x2="1152" y2="78" stroke="#30363d"/>
 <text x="48" y="113" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="1">HOURS</text>
 <text x="48" y="151" font-size="29" font-weight="700">14.3h</text>
 <text x="416" y="113" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="1">ACTIVE DAYS</text>
-<text x="416" y="151" font-size="29" font-weight="700">5/7</text>
+<text x="416" y="151" font-size="29" font-weight="700">6/7</text>
 <text x="784" y="113" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="1">STREAK</text>
-<text x="784" y="151" font-size="29" font-weight="700">4 days</text>
+<text x="784" y="151" font-size="29" font-weight="700">5 days</text>
 <line x1="392" y1="99" x2="392" y2="154" stroke="#30363d"/>
 <line x1="760" y1="99" x2="760" y2="154" stroke="#30363d"/>
 <text x="48" y="202" font-size="15" font-weight="600" fill="#8b949e">DAILY ACTIVITY</text>
@@ -36,8 +36,8 @@
 <rect x="852" y="330.7" width="88" height="73.3" rx="4" fill="#58a6ff"/>
 <text x="896.0" y="321.7" text-anchor="middle" font-size="13" font-weight="600">2h 29m</text>
 <text x="896.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Thu</text>
-<rect x="1000" y="401.0" width="88" height="3.0" rx="4" fill="#30363d"/>
-<text x="1044.0" y="392.0" text-anchor="middle" font-size="13" font-weight="600">—</text>
+<rect x="1000" y="401.0" width="88" height="3.0" rx="4" fill="#58a6ff"/>
+<text x="1044.0" y="392.0" text-anchor="middle" font-size="13" font-weight="600">2m</text>
 <text x="1044.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Fri</text>
 <line x1="48" y1="458" x2="1152" y2="458" stroke="#30363d"/>
 <text x="1152" y="486" text-anchor="end" font-size="13" fill="#8b949e">Powered by code-clock</text>
