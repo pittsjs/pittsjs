@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://ssettie.com">Website</a> ·
-  <a href="https://www.linkedin.com/in/ssettie/">LinkedIn</a> ·
-  <a href="https://pittsjs.github.io/Project-Portfolio-Samuel-Settie/">Coursework portfolio</a>
+  <a href="https://ssettie.com"><img height="30" alt="Website" src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ssettie/"><img height="30" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://pittsjs.github.io/Project-Portfolio-Samuel-Settie/"><img height="30" alt="CS Portfolio" src="https://img.shields.io/badge/CS_Portfolio-6f42c1?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 <!--START_SECTION:coding-stats-->
 <p align="center">
-  <img alt="27.6 hours coded this week" src="https://img.shields.io/badge/THIS_WEEK-27.6h-238636?style=for-the-badge" />
+  <img alt="25.4 hours coded this week" src="https://img.shields.io/badge/THIS_WEEK-25.4h-238636?style=for-the-badge" />
   <img alt="6 of 7 active days" src="https://img.shields.io/badge/ACTIVE_DAYS-6%2F7-1f6feb?style=for-the-badge" />
   <img alt="4 day coding streak" src="https://img.shields.io/badge/STREAK-4_DAYS-f0883e?style=for-the-badge" />
 </p>
@@ -22,9 +22,9 @@
 | Mon | 5h 12m | `██████░░░░░░░░░░` |
 | Tue | 2h 45m | `███░░░░░░░░░░░░░` |
 | Wed | 3h 51m | `████░░░░░░░░░░░░` |
-| Thu | 2h 28m | `██░░░░░░░░░░░░░░` |
+| Thu | 15m | `░░░░░░░░░░░░░░░░` |
 
-<sub>Top project: <strong>Private project</strong> · Updated Sep 3, 2026 at 8:30 PM EDT · Powered by <a href="https://github.com/pittsjs/code-clock">code-clock</a></sub>
+<sub>Top project: <strong>Private project</strong> · Updated 3/9/2026 11:55 AM EDT · Powered by <a href="https://github.com/pittsjs/code-clock">code-clock</a></sub>
 <!--END_SECTION:coding-stats-->
 
 ## Tools I reach for
