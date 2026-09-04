@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://ssettie.com"><img height="30" alt="Website" src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ssettie/"><img height="30" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://pittsjs.github.io/Project-Portfolio-Samuel-Settie/"><img height="30" alt="CS Portfolio" src="https://img.shields.io/badge/CS_Portfolio-6f42c1?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---

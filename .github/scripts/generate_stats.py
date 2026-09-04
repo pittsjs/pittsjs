@@ -80,9 +80,6 @@ def render_svg(data, theme):
     total = float(summary["total_hours"])
     active = int(summary["days_active"])
     streak = int(summary["streak_days"])
-    top_project = str(summary.get("top_project") or "—")
-    if len(top_project) > 24:
-        top_project = top_project[:23].rstrip() + "…"
     days = normalized_days(data)
     updated = report_timestamp(data)
 
@@ -100,9 +97,8 @@ def render_svg(data, theme):
 
     metrics = [
         (48, "HOURS", f"{total:g}h"),
-        (324, "ACTIVE DAYS", f"{active}/7"),
-        (600, "STREAK", f"{streak} days"),
-        (876, "TOP PROJECT", top_project),
+        (416, "ACTIVE DAYS", f"{active}/7"),
+        (784, "STREAK", f"{streak} days"),
     ]
     for x, label, value in metrics:
         parts.extend(
@@ -112,7 +108,7 @@ def render_svg(data, theme):
             ]
         )
 
-    for x in (300, 576, 852):
+    for x in (392, 760):
         parts.append(
             f'<line x1="{x}" y1="99" x2="{x}" y2="154" stroke="{c["border"]}"/>'
         )
@@ -147,7 +143,6 @@ def render_svg(data, theme):
     parts.extend(
         [
             f'<line x1="48" y1="458" x2="1152" y2="458" stroke="{c["border"]}"/>',
-            f'<text x="48" y="486" font-size="13" fill="{c["muted"]}">Private project names redacted</text>',
             f'<text x="1152" y="486" text-anchor="end" font-size="13" fill="{c["muted"]}">Powered by code-clock</text>',
             "</g>",
             "</svg>",
