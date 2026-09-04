@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
 <title id="title">This week in code</title>
-<desc id="desc">27.6 hours coded this week across 6 active days with a 4 day streak. Includes daily coding activity.</desc>
+<desc id="desc">14.3 hours coded this week across 5 active days with a 4 day streak. Includes daily coding activity.</desc>
 <rect width="1200" height="500" fill="#0d1117"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#f0f6fc">
 <text x="48" y="54" font-size="26" font-weight="700">This week in code</text>
-<text x="1152" y="54" text-anchor="end" font-size="14" fill="#8b949e">Updated Sep 3, 2026 at 9:56 PM EDT</text>
+<text x="1152" y="54" text-anchor="end" font-size="14" fill="#8b949e">Updated Sep 4, 2026 at 1:45 PM EDT</text>
 <line x1="48" y1="78" x2="1152" y2="78" stroke="#30363d"/>
 <text x="48" y="113" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="1">HOURS</text>
-<text x="48" y="151" font-size="29" font-weight="700">27.6h</text>
+<text x="48" y="151" font-size="29" font-weight="700">14.3h</text>
 <text x="324" y="113" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="1">ACTIVE DAYS</text>
-<text x="324" y="151" font-size="29" font-weight="700">6/7</text>
+<text x="324" y="151" font-size="29" font-weight="700">5/7</text>
 <text x="600" y="113" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="1">STREAK</text>
 <text x="600" y="151" font-size="29" font-weight="700">4 days</text>
 <text x="876" y="113" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="1">TOP PROJECT</text>
@@ -21,27 +21,27 @@
 <line x1="48" y1="230" x2="1152" y2="230" stroke="#21262d" stroke-width="1"/>
 <line x1="48" y1="302" x2="1152" y2="302" stroke="#21262d" stroke-width="1"/>
 <line x1="48" y1="374" x2="1152" y2="374" stroke="#21262d" stroke-width="1"/>
-<rect x="112" y="250.0" width="88" height="154.0" rx="4" fill="#58a6ff"/>
-<text x="156.0" y="241.0" text-anchor="middle" font-size="13" font-weight="600">13h 16m</text>
-<text x="156.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Fri</text>
+<rect x="112" y="401.0" width="88" height="3.0" rx="4" fill="#30363d"/>
+<text x="156.0" y="392.0" text-anchor="middle" font-size="13" font-weight="600">—</text>
+<text x="156.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Sat</text>
 <rect x="260" y="401.0" width="88" height="3.0" rx="4" fill="#30363d"/>
 <text x="304.0" y="392.0" text-anchor="middle" font-size="13" font-weight="600">—</text>
-<text x="304.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Sat</text>
-<rect x="408" y="401.0" width="88" height="3.0" rx="4" fill="#30363d"/>
-<text x="452.0" y="392.0" text-anchor="middle" font-size="13" font-weight="600">—</text>
-<text x="452.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Sun</text>
-<rect x="556" y="343.5" width="88" height="60.5" rx="4" fill="#58a6ff"/>
-<text x="600.0" y="334.5" text-anchor="middle" font-size="13" font-weight="600">5h 13m</text>
-<text x="600.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Mon</text>
-<rect x="704" y="372.0" width="88" height="32.0" rx="4" fill="#58a6ff"/>
-<text x="748.0" y="363.0" text-anchor="middle" font-size="13" font-weight="600">2h 46m</text>
-<text x="748.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Tue</text>
-<rect x="852" y="359.2" width="88" height="44.8" rx="4" fill="#58a6ff"/>
-<text x="896.0" y="350.2" text-anchor="middle" font-size="13" font-weight="600">3h 52m</text>
-<text x="896.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Wed</text>
-<rect x="1000" y="375.2" width="88" height="28.8" rx="4" fill="#58a6ff"/>
-<text x="1044.0" y="366.2" text-anchor="middle" font-size="13" font-weight="600">2h 29m</text>
-<text x="1044.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Thu</text>
+<text x="304.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Sun</text>
+<rect x="408" y="250.0" width="88" height="154.0" rx="4" fill="#58a6ff"/>
+<text x="452.0" y="241.0" text-anchor="middle" font-size="13" font-weight="600">5h 13m</text>
+<text x="452.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Mon</text>
+<rect x="556" y="322.4" width="88" height="81.6" rx="4" fill="#58a6ff"/>
+<text x="600.0" y="313.4" text-anchor="middle" font-size="13" font-weight="600">2h 46m</text>
+<text x="600.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Tue</text>
+<rect x="704" y="289.9" width="88" height="114.1" rx="4" fill="#58a6ff"/>
+<text x="748.0" y="280.9" text-anchor="middle" font-size="13" font-weight="600">3h 52m</text>
+<text x="748.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Wed</text>
+<rect x="852" y="330.7" width="88" height="73.3" rx="4" fill="#58a6ff"/>
+<text x="896.0" y="321.7" text-anchor="middle" font-size="13" font-weight="600">2h 29m</text>
+<text x="896.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Thu</text>
+<rect x="1000" y="401.0" width="88" height="3.0" rx="4" fill="#30363d"/>
+<text x="1044.0" y="392.0" text-anchor="middle" font-size="13" font-weight="600">—</text>
+<text x="1044.0" y="429" text-anchor="middle" font-size="13" fill="#8b949e">Fri</text>
 <line x1="48" y1="458" x2="1152" y2="458" stroke="#30363d"/>
 <text x="48" y="486" font-size="13" fill="#8b949e">Private project names redacted</text>
 <text x="1152" y="486" text-anchor="end" font-size="13" fill="#8b949e">Powered by code-clock</text>
