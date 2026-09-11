@@ -6,13 +6,11 @@
 ---
 
 <!--START_SECTION:coding-stats-->
-<a href="https://github.com/pittsjs/code-clock">
-  <picture>
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/code-clock-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/code-clock-light.svg">
     <img alt="Code Clock live coding activity dashboard" src="assets/code-clock-light.svg" width="100%">
-  </picture>
-</a>
+</picture>
 <!--END_SECTION:coding-stats-->
 
 <p align="left">

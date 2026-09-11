@@ -2,6 +2,7 @@ name: Update Coding Stats
 
 on:
   schedule:
+    # Re-render the last received summary; new data arrives via repository_dispatch.
     # 1:30 PM & 8:30 PM US Eastern (America/New_York). GitHub cron is UTC-only.
     # These two lines match local clocks during EDT (~Mar–Nov): 17:30 UTC = 13:30 EDT, 00:30 UTC = 20:30 EDT.
     # When EST is in effect (~Nov–Mar), use 18:30 and 01:30 UTC instead for the same local times.
@@ -11,6 +12,10 @@ on:
   # Fired automatically by code-clock after each successful stats.json push (see push_stats.sh + `gh`).
   repository_dispatch:
     types: [coding-stats-updated]
+
+concurrency:
+  group: profile-coding-stats
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -22,26 +27,22 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch latest stats
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          curl -sfL \
-            -H "Accept: application/vnd.github.v3.raw" \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            "https://api.github.com/repos/pittsjs/code-clock/contents/stats.json?ref=main" \
-            -o stats.json
+      - name: Test public-data boundary
+        run: python3 .github/scripts/test_profile_stats.py
+
+      - name: Accept sanitized activity notification
+        if: github.event_name == 'repository_dispatch'
+        run: python3 .github/scripts/profile_stats.py "$GITHUB_EVENT_PATH" --event --output assets/coding-summary.json
 
       - name: Generate stats block
-        run: python3 .github/scripts/generate_stats.py
+        run: python3 .github/scripts/generate_stats.py assets/coding-summary.json
 
       - name: Commit and push
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/code-clock-dark.svg assets/code-clock-light.svg
+          git add README.md assets/code-clock-dark.svg assets/code-clock-light.svg assets/coding-summary.json
           git diff --cached --quiet && exit 0
           LAST=""
           while IFS= read -r subj; do

@@ -160,13 +160,11 @@ for selected_theme in ("dark", "light"):
         render_svg(stats, selected_theme), encoding="utf-8"
     )
 
-block = """<a href="https://github.com/pittsjs/code-clock">
-  <picture>
+block = """<picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/code-clock-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/code-clock-light.svg">
     <img alt="Code Clock live coding activity dashboard" src="assets/code-clock-light.svg" width="100%">
-  </picture>
-</a>"""
+</picture>"""
 
 readme_path = ROOT / "README.md"
 readme = readme_path.read_text(encoding="utf-8")
