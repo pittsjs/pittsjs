@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-13",
-  "exported_at": "2026-09-14T00:30:06Z",
+  "generated_at": "2026-09-14",
+  "exported_at": "2026-09-14T04:06:04Z",
   "period_days": 7,
   "summary": {
-    "total_hours": 9.9,
+    "total_hours": 14.8,
     "days_active": 5,
     "streak_days": 1
   },
@@ -26,7 +26,7 @@
     },
     {
       "date": "2026-09-13",
-      "hours": 0.01
+      "hours": 4.9
     }
   ]
 }
