@@ -1,17 +1,13 @@
 {
-  "generated_at": "2026-09-14",
-  "exported_at": "2026-09-15T00:30:06Z",
+  "generated_at": "2026-09-15",
+  "exported_at": "2026-09-15T16:42:13Z",
   "period_days": 7,
   "summary": {
-    "total_hours": 15,
+    "total_hours": 10.4,
     "days_active": 6,
-    "streak_days": 2
+    "streak_days": 3
   },
   "daily": [
-    {
-      "date": "2026-09-08",
-      "hours": 4.74
-    },
     {
       "date": "2026-09-09",
       "hours": 1.43
@@ -31,6 +27,10 @@
     {
       "date": "2026-09-14",
       "hours": 0.24
+    },
+    {
+      "date": "2026-09-15",
+      "hours": 0.14
     }
   ]
 }
