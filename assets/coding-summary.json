@@ -1,17 +1,13 @@
 {
-  "generated_at": "2026-10-08",
-  "exported_at": "2026-10-09T00:37:23Z",
+  "generated_at": "2026-10-09",
+  "exported_at": "2026-10-10T00:47:13Z",
   "period_days": 7,
   "summary": {
-    "total_hours": 7.6,
-    "days_active": 2,
+    "total_hours": 0,
+    "days_active": 1,
     "streak_days": 0
   },
   "daily": [
-    {
-      "date": "2026-10-02",
-      "hours": 7.61
-    },
     {
       "date": "2026-10-03",
       "hours": 0.04
