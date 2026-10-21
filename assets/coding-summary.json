@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-21",
-  "exported_at": "2026-10-21T13:24:50Z",
+  "exported_at": "2026-10-21T13:30:36Z",
   "period_days": 7,
   "summary": {
     "total_hours": 0.1,
@@ -10,7 +10,7 @@
   "daily": [
     {
       "date": "2026-10-21",
-      "hours": 0.06
+      "hours": 0.07
     }
   ]
 }
